@@ -1,7 +1,0 @@
-{
-  "name": "Bank Soal PDF",
-  "description": "Repositori & Arsip Soal Pengajar — Platform modern untuk mengelola, mencari, mengarsipkan, mengorganisasi, dan menggunakan kembali kumpulan soal dalam format PDF dengan integrasi multi-storage.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
