@@ -1,0 +1,6 @@
+{
+  "name": "Bank Soal PDF",
+  "description": "Pusat repositori digital bank soal PDF terintegrasi dengan Google Drive sebagai media penyimpanan file dan Google Sheets sebagai basis data metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
